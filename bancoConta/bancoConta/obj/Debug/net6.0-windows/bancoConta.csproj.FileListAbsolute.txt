@@ -1,0 +1,17 @@
+C:\treinamento_poo_csharp\bancoConta\bancoConta\obj\Debug\net6.0-windows\bancoConta.csproj.AssemblyReference.cache
+C:\treinamento_poo_csharp\bancoConta\bancoConta\obj\Debug\net6.0-windows\bancoConta.Form1.resources
+C:\treinamento_poo_csharp\bancoConta\bancoConta\obj\Debug\net6.0-windows\bancoConta.csproj.GenerateResource.cache
+C:\treinamento_poo_csharp\bancoConta\bancoConta\obj\Debug\net6.0-windows\bancoConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\treinamento_poo_csharp\bancoConta\bancoConta\obj\Debug\net6.0-windows\bancoConta.AssemblyInfoInputs.cache
+C:\treinamento_poo_csharp\bancoConta\bancoConta\obj\Debug\net6.0-windows\bancoConta.AssemblyInfo.cs
+C:\treinamento_poo_csharp\bancoConta\bancoConta\obj\Debug\net6.0-windows\bancoConta.csproj.CoreCompileInputs.cache
+C:\treinamento_poo_csharp\bancoConta\bancoConta\bin\Debug\net6.0-windows\bancoConta.exe
+C:\treinamento_poo_csharp\bancoConta\bancoConta\bin\Debug\net6.0-windows\bancoConta.deps.json
+C:\treinamento_poo_csharp\bancoConta\bancoConta\bin\Debug\net6.0-windows\bancoConta.runtimeconfig.json
+C:\treinamento_poo_csharp\bancoConta\bancoConta\bin\Debug\net6.0-windows\bancoConta.dll
+C:\treinamento_poo_csharp\bancoConta\bancoConta\bin\Debug\net6.0-windows\ref\bancoConta.dll
+C:\treinamento_poo_csharp\bancoConta\bancoConta\bin\Debug\net6.0-windows\bancoConta.pdb
+C:\treinamento_poo_csharp\bancoConta\bancoConta\obj\Debug\net6.0-windows\bancoConta.dll
+C:\treinamento_poo_csharp\bancoConta\bancoConta\obj\Debug\net6.0-windows\ref\bancoConta.dll
+C:\treinamento_poo_csharp\bancoConta\bancoConta\obj\Debug\net6.0-windows\bancoConta.pdb
+C:\treinamento_poo_csharp\bancoConta\bancoConta\obj\Debug\net6.0-windows\bancoConta.genruntimeconfig.cache

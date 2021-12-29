@@ -26,6 +26,17 @@ namespace bancoConta
             MessageBox.Show($"Seu saldo na sua conta poupança é de R${this.saldo.ToString("0.00")}");
         }
 
+        public void atualizarSaldos(double reajuste)
+        {
+            double saldoAnterior = this.saldo;
+            saldo += saldo * (reajuste / 100);
+        }
+
+        public override void atualizarSaldos()
+        {
+
+        }
+
         public void sairCP()
         {
             MessageBox.Show("Conta encerrada!");

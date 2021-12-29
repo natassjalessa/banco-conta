@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace bancoConta
 {
-    public class Conta
+    public abstract class Conta
     {
         public double saldo { get; set; }
 
@@ -22,7 +22,8 @@ namespace bancoConta
 
         public void creditarConta(double valor)
         {
-            this.saldo += valor; 
+            this.saldo += valor;
+            MessageBox.Show("Depósito efetuado com sucesso!");
         }
 
         public void debitarConta(double valor)
@@ -34,8 +35,11 @@ namespace bancoConta
             else
             {
                 this.saldo -= valor;
+                MessageBox.Show("Saque efetuado com sucesso!");
             }
             
         }
+
+        public abstract void atualizarSaldos();
     }
 }

@@ -26,6 +26,16 @@ namespace bancoConta
             MessageBox.Show($"O valor do saldo da sua conta corrente é de R${this.saldo.ToString("0.00")}");
         }
 
+        public override void atualizarSaldos()
+        {
+            double saldoAnterior = this.saldo;
+            if (this.saldo < 0)
+            {
+                saldo += saldo * 0.08;
+            }
+            MessageBox.Show($"Saldo anterior: {saldoAnterior.ToString()} \nSaldo Atual: {this.saldo}");
+        }
+
         public void sairCC()
         {
             MessageBox.Show("Conta encerrada!");

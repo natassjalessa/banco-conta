@@ -55,6 +55,15 @@ namespace bancoConta
             cp.sairCP();
         }
 
-        
+        private void btnAtSaldoCC_Click(object sender, EventArgs e)
+        {
+            cc.atualizarSaldos();
+        }
+
+        private void btnAttSaldoCP_Click(object sender, EventArgs e)
+        {
+            double reajuste = double.Parse(Interaction.InputBox("Digite a taxa de reajuste: "));
+            cp.atualizarSaldos(reajuste);
+        }
     }
 }

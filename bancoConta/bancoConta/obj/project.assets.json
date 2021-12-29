@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\treinamento_poo_csharp\\bancoConta\\bancoConta\\bancoConta.csproj",
+      "projectUniqueName": "C:\\treinamento_poo_csharp\\Banco-Conta\\bancoConta\\bancoConta\\bancoConta.csproj",
       "projectName": "bancoConta",
-      "projectPath": "C:\\treinamento_poo_csharp\\bancoConta\\bancoConta\\bancoConta.csproj",
+      "projectPath": "C:\\treinamento_poo_csharp\\Banco-Conta\\bancoConta\\bancoConta\\bancoConta.csproj",
       "packagesPath": "C:\\Users\\n.de.lima.lessa\\.nuget\\packages\\",
-      "outputPath": "C:\\treinamento_poo_csharp\\bancoConta\\bancoConta\\obj\\",
+      "outputPath": "C:\\treinamento_poo_csharp\\Banco-Conta\\bancoConta\\bancoConta\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\n.de.lima.lessa\\AppData\\Roaming\\NuGet\\NuGet.Config",
